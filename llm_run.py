@@ -11,7 +11,7 @@ from langchain.chat_models import ChatOpenAI
 
 from langchain.agents.agent_types import AgentType
 from langchain_community.chat_models import ChatOpenAI
-from langchain_experimental.agents.agent_toolkits import create_pandas_dataframe_agent
+
 from langchain_community.llms import OpenAI
 import pandas as pd
 
@@ -53,4 +53,4 @@ def scan(user_id):
     out = chain1.run(dataset=df[df.user_id==user_id].to_string())
     print(output_parser.parse(out))
 
-scan(4)
+#scan(4)
