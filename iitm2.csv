@@ -95,17 +95,17 @@
 10,Ava Martinez,ava.martinez@email.com,20,Female,South Korea,10-01-2024 07:45,0.916666667,23,Smartphone,28.6139,77.209,Android
 7,Daniel Miller,daniel.miller@email.com,34,Male,Spain,10-01-2024 08:30,0.75,20,Tablet,-33.8688,151.2093,Windows 7
 1,John Doe,john.doe@email.com,26,Male,USA,10-01-2024 09:15,,17,Laptop,37.7749,-122.4194,Ubuntu
-13,William Lee,william.lee@email.com,66,Male,India,10-01-2024 10:00,,19,Smartphone,40.7128,-74.006,Android
-4,Emily Davis,emily.davis@email.com,29,Female,Australia,10-01-2024 10:45,,22,Desktop,34.0522,-118.2437,Windows 10
-2,Jane Smith,jane.smith@email.com,41,Female,Canada,10-01-2024 11:30,,15,Laptop,41.8781,-87.6298,macOS
-9,Matthew Taylor,matthew.taylor@email.com,50,Male,Japan,10-01-2024 12:15,,25,Tablet,51.5074,-0.1278,Windows 7
-14,Sophia Kim,sophia.kim@email.com,24,Female,China,10-01-2024 13:00,,15,Desktop,35.6895,139.6917,Windows 10
-2,Jane Smith,jane.smith@email.com,41,Female,Canada,10-01-2024 13:45,,22,Tablet,33.4484,-112.074,iOS
-10,Ava Martinez,ava.martinez@email.com,20,Female,South Korea,10-01-2024 14:30,,17,Laptop,55.7558,37.6176,Ubuntu
-8,Olivia Garcia,olivia.garcia@email.com,22,Female,Italy,10-01-2024 15:15,,20,Smartphone,28.6139,77.209,Android
-19,Marcus Silva,marcus.silva@email.com,30,Male,Brazil,10-01-2024 16:00,,18,Desktop,-33.8688,151.2093,Windows 7
-13,William Lee,william.lee@email.com,66,Male,India,10-01-2024 16:45,,16,Smartphone,40.7128,-74.006,Android
-9,Matthew Taylor,matthew.taylor@email.com,50,Male,Japan,10-01-2024 17:30,,21,Laptop,34.0522,-118.2437,macOS
-4,Emily Davis,emily.davis@email.com,29,Female,Australia,10-01-2024 18:15,,19,Tablet,41.8781,-87.6298,Windows 10
-17,Sofia Rodriguez,sofia.rodriguez@email.com,37,Female,Mexico,10-01-2024 19:00,,23,Desktop,51.5074,-0.1278,Ubuntu
-12,Emma Hernandez,emma.hernandez@email.com,28,Female,Mexico,10-01-2024 19:45,,22,Laptop,35.6895,139.6917,Windows 10
+13,William Lee,william.lee@email.com,66,Male,India,10-01-2024 10:00,0.783333333,19,Smartphone,40.7128,-74.006,Android
+4,Emily Davis,emily.davis@email.com,29,Female,Australia,10-01-2024 10:45,0.9,22,Desktop,34.0522,-118.2437,Windows 10
+2,Jane Smith,jane.smith@email.com,41,Female,Canada,10-01-2024 11:30,0.766666667,15,Laptop,41.8781,-87.6298,macOS
+9,Matthew Taylor,matthew.taylor@email.com,50,Male,Japan,10-01-2024 12:15,0.883333333,25,Tablet,51.5074,-0.1278,Windows 7
+14,Sophia Kim,sophia.kim@email.com,24,Female,China,10-01-2024 13:00,0.75,15,Desktop,35.6895,139.6917,Windows 10
+2,Jane Smith,jane.smith@email.com,41,Female,Canada,10-01-2024 13:45,1.033333333,22,Tablet,33.4484,-112.074,iOS
+10,Ava Martinez,ava.martinez@email.com,20,Female,South Korea,10-01-2024 14:30,0.683333333,17,Laptop,55.7558,37.6176,Ubuntu
+8,Olivia Garcia,olivia.garcia@email.com,22,Female,Italy,10-01-2024 15:15,0.833333333,20,Smartphone,28.6139,77.209,Android
+19,Marcus Silva,marcus.silva@email.com,30,Male,Brazil,10-01-2024 16:00,0.916666667,18,Desktop,-33.8688,151.2093,Windows 7
+13,William Lee,william.lee@email.com,66,Male,India,10-01-2024 16:45,0.733333333,16,Smartphone,40.7128,-74.006,Android
+9,Matthew Taylor,matthew.taylor@email.com,50,Male,Japan,10-01-2024 17:30,0.85,21,Laptop,34.0522,-118.2437,macOS
+4,Emily Davis,emily.davis@email.com,29,Female,Australia,10-01-2024 18:15,0.716666667,19,Tablet,41.8781,-87.6298,Windows 10
+17,Sofia Rodriguez,sofia.rodriguez@email.com,37,Female,Mexico,10-01-2024 19:00,0.966666667,23,Desktop,51.5074,-0.1278,Ubuntu
+12,Emma Hernandez,emma.hernandez@email.com,28,Female,Mexico,10-01-2024 19:45,1,22,Laptop,35.6895,139.6917,Windows 10
